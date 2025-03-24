@@ -14,9 +14,6 @@ package cuentas;
     private String cuenta;
     private double saldo;
     private double tipoInterés;
-	// Propiedades
-	private String nombre;
-	private double tipoInterés;
 
     /**
      * Constructor por defecto.
